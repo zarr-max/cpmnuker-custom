@@ -1,0 +1,2 @@
+# cpmnuker-custom
+hack cpm
